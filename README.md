@@ -4,7 +4,7 @@ Ce TP a pour objectif de mettre en œuvre un service web SOAP à l’aide de la 
 
 ## Capture d’écran 1 : Requête et réponse pour `FindPerson`
 
-![Requête et réponse FindPerson](![1](https://github.com/user-attachments/assets/173c901e-1bb8-4522-a123-f3fdf500a68f)
+![Requête et réponse FindPerson](![1](images/1.png)
 )
 
 > Cette capture montre une requête SOAP envoyée au service pour récupérer les informations d’une personne (`id=20`). La réponse contient l’âge, l’identifiant et le nom de la personne.
